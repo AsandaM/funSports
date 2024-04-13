@@ -1,10 +1,7 @@
 I really enjoy participating in sports 
 
-<<<<<<< HEAD
 Sports:
 1) Volley Ball
 2) Netball
 3) Soccer
-=======
->>>>>>> 8d3a9b6 (Fav Sports)
 4)Baseball
